@@ -21,10 +21,6 @@ import androidx.annotation.RequiresApi;
  * This ViewGroup will have the {@link BrushDrawingView} to draw paint on it with {@link ImageView}
  * which our source image
  * </p>
- *
- * @author <a href="https://github.com/burhanrashid52">Burhanuddin Rashid</a>
- * @version 0.1.1
- * @since 1/18/2018
  */
 
 public class PhotoEditorView extends RelativeLayout {
